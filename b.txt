@@ -1,3 +1,0 @@
-hello b
-# test line
-# test line b
