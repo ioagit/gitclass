@@ -2,4 +2,6 @@ hello a
 adding text to c
 more c
 c1
-mod c in master
+testing branch
+more stuff to c
+>>>>>>> testing
